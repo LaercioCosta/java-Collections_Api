@@ -1,4 +1,4 @@
-package main.java.list.operacoesBasicas;
+package main.java.list.aula.operacoesBasicas;
 
 public class tarefas {
     private String descricao;
